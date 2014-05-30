@@ -1,4 +1,4 @@
-BossLab
+BossLab - Main Code Repo
 =======
 
-DIYbio lab, code repo
+Currently divided into website, and science, which uses IPython notebooks for analysis but also can use JS/Maps and anything else
