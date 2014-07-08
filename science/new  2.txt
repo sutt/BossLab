@@ -1,0 +1,5 @@
+import urllib2
+
+req = urllib2.geturl(url="http://bosslab.org")
+state = req.readlines()
+print state
